@@ -10,6 +10,15 @@ body {
   padding: 50px;
   line-height: 1.75;
 }
+
+a {
+	color: #9EF2F6;
+}
+
+a:hover {
+	color: #FFFFFF
+}
+
 h1 {
 
   font-size: 5em;
